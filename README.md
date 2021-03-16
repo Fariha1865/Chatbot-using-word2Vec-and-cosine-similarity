@@ -3,7 +3,7 @@ A conversational chatbot which can provide information of any query about MIST (
 
 
 
-**Click here** https://drive.google.com/file/d/1TYpXKKlBxVzuVrYfkqMoBNaGyM-DkYgD/view?usp=sharing to download the model.
+**Click here** https://drive.google.com/file/d/1TYpXKKlBxVzuVrYfkqMoBNaGyM-DkYgD/view?usp=sharing  **to download the model.**
 
 
 
@@ -19,10 +19,6 @@ A conversational chatbot which can provide information of any query about MIST (
 
 
 **Intent Classification:**
-
-
-                               ![image](https://user-images.githubusercontent.com/54511128/111270626-494e9f00-865a-11eb-9b0e-ef9973ed9781.png)
- 
 
 
 Imported all the necessary library at first such as genism, pandas, NumPy, nltk,
@@ -70,6 +66,7 @@ product of vectors and the product of the Euclidean norms or magnitude of each
 vector.check http://nlp.town/blog/sentence-similarity/ for more information on it.
 
 
-                                                            
+
+You can train your out model with Train.ipynb  else download the model from the given drive link and run the chatbot code                                                            
                                                             
 
