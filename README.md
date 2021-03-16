@@ -21,6 +21,10 @@ A conversational chatbot which can provide information of any query about MIST (
 **Intent Classification:**
 
 
+                               ![image](https://user-images.githubusercontent.com/54511128/111270626-494e9f00-865a-11eb-9b0e-ef9973ed9781.png)
+ 
+
+
 Imported all the necessary library at first such as genism, pandas, NumPy, nltk,
 random, warnings. Then assigned the ‘mist_dataset.xlsx’ in a data frame. The dataset is
 preprocessed in order to transform them into a standard and
@@ -32,6 +36,11 @@ we performed in it:
 
 
 **• Data Cleaning:** To clean the data we can use several methods. We first
+
+
+
+
+
 removed every punctuation and special characters (if any) from the data
 then we tokenized the sentences into words. After this we lowercase all the
 words. Also, we removed stop words. We got the list of stop words in the
