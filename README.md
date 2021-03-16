@@ -4,8 +4,14 @@ A conversational chatbot which can provide information of any query about MIST (
                                                             METHODOLOGY
                                         
 **Language:** Python
+
+
 **Backend:** Jupyter notebook, Google Colab
+
+
 **Frontend:** Tkinter
+
+
 **Intent Classification:**
 
 
