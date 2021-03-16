@@ -41,7 +41,7 @@ corpus module.
 **• Lemmatization:** Lemmatization is the process of grouping together the
 different inflected forms of a word so they can be analyzed as a single item.
 We used it so that if someone writes a word ‘mostly’, classifier can
-understand it and give us the best result possible.
+understand it and give us the best result possible.You can also use stemming instead of lemmatization.
 
 
 **Word2vec:** Word2vec is to group the vectors of similar words together in vector space and it
