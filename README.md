@@ -12,7 +12,7 @@ random, warnings. Then assigned the ‘mist_dataset.xlsx’ in a data frame. The
 preprocessed in order to transform them into a standard and
 normalized format.
 
-• Data Preprocessing: We simplified our data as much as we could which in turn gave
+**• Data Preprocessing:** We simplified our data as much as we could which in turn gave
 our model a helping hand to train easily and faster. There are following steps that
 we performed in it:
 • Data Cleaning: To clean the data we can use several methods. We first
